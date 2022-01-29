@@ -1,6 +1,6 @@
 <?php
 
-namespace Marcomessa\Vite\Facades;
+namespace Mmes\Vite\Facades;
 
 use October\Rain\Support\Facade;
 

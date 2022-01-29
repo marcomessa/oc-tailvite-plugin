@@ -1,6 +1,6 @@
 <?php
 
-namespace Marcomessa\Vite\Classes;
+namespace Mmes\Vite\Classes;
 
 use October\Rain\Support\Facades\Http;
 use October\Rain\Support\Facades\Config;

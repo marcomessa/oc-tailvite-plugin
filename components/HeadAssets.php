@@ -1,7 +1,7 @@
-<?php namespace Marcomessa\Vite\Components;
+<?php namespace Mmes\Vite\Components;
 
 use Cms\Classes\ComponentBase;
-use Marcomessa\Vite\Facades\Vite;
+use Mmes\Vite\Facades\Vite;
 
 class HeadAssets extends ComponentBase
 {

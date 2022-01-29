@@ -1,9 +1,9 @@
-<?php namespace Marcomessa\Vite;
+<?php namespace Mmes\Vite;
 
 use Backend;
 use Illuminate\Support\Facades\App;
-use Marcomessa\Vite\Components\HeadAssets;
-use Marcomessa\Vite\Providers\ViteServiceProvider;
+use Mmes\Vite\Components\HeadAssets;
+use Mmes\Vite\Providers\ViteServiceProvider;
 use System\Classes\PluginBase;
 
 /**
@@ -21,7 +21,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'Vite',
             'description' => 'Plugin required for Vite TailwindCss Theme',
-            'author'      => 'Marcomessa',
+            'author'      => 'Mmes',
             'icon'        => 'icon-leaf'
         ];
     }

@@ -1,7 +1,7 @@
-<?php namespace Marcomessa\Vite\Providers;
+<?php namespace Mmes\Vite\Providers;
 
 use October\Rain\Support\ServiceProvider;
-use Marcomessa\Vite\Classes\ViteService;
+use Mmes\Vite\Classes\ViteService;
 
 class ViteServiceProvider extends ServiceProvider
 {
