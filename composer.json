@@ -1,0 +1,24 @@
+{
+  "name": "marcomessa/oc-tailvite-service-plugin",
+  "type": "october-plugin",
+  "version": "1.0.0",
+  "description": "Plugin required for Tailvite Theme",
+  "keywords": [
+    "october",
+    "tailvite",
+    "vite",
+    "tailwind",
+    "tailwindcss"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marco Messa",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "composer/installers": "~1.0"
+  }
+}
