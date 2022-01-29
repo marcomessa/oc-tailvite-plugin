@@ -1,5 +1,5 @@
 {
-  "name": "marcomessa/tailvite-plugin",
+  "name": "marcomessa/vite-plugin",
   "type": "october-plugin",
   "version": "1.0.0",
   "description": "Plugin required for Tailvite Theme",
